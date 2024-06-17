@@ -6,7 +6,7 @@ I am a JavaScript web developer specializing in front-end development.
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ripon.khan.3939)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ripon-khan-97b553247)
 
-[![LinkedIn GIF](https://example.com/linkedin.gif)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn GIF](https://i.ibb.co/p0Tk7gk/372102050-LINKEDIN-ICON-TRANSPARENT-1080.gif)](https://www.linkedin.com/in/md-ripon-khan-97b553247)
 
 👤 **About me**
 
