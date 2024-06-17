@@ -3,7 +3,8 @@ I am a JavaScript web developer specializing in front-end development.
 
 🏠 Living: Rajbari, Bangladesh
 
-[![Facebook]](https://www.facebook.com/ripon.khan.3939) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ripon-khan-97b553247/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ripon.khan.3939)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ripon-khan-97b553247)
 
 👤 **About me**
 
