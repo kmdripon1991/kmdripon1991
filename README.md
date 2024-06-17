@@ -6,8 +6,6 @@ I am a JavaScript web developer specializing in front-end development.
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ripon.khan.3939)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ripon-khan-97b553247)
 
-[![LinkedIn GIF](https://i.ibb.co/p0Tk7gk/372102050-LINKEDIN-ICON-TRANSPARENT-1080.gif)](https://www.linkedin.com/in/md-ripon-khan-97b553247)
-
 👤 **About me**
 
 I am a dedicated and passionate JavaScript web developer with 2 years of experience specializing in front-end development. My expertise is creating dynamic and responsive user interfaces using modern JavaScript frameworks and libraries such as React and Vue.js. I have a strong foundation in HTML, CSS, and JavaScript and hands-on experience in integrating APIs and optimizing web performance. I thrive in collaborative environments and enjoy problem-solving to enhance user experience and deliver high-quality web applications. Always eager to learn and adopt new technologies, I am committed to continuous improvement and innovation in my work.
